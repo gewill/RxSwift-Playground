@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw' buildActiveScheme='true' executeOnSourceChanges='true' last-migration='1020'>
+    <pages>
+        <page name='目录'/>
+        <page name='介绍'/>
+        <page name='创建'/>
+        <page name='Subject'/>
+        <page name='组合操作符'/>
+        <page name='变形操作符'/>
+        <page name='过滤和条件操作符'/>
+        <page name='数学和聚合运算符'/>
+        <page name='可连接运算符'/>
+        <page name='错误处理运算符'/>
+        <page name='调试运算符'/>
+        <page name='并发'/>
+        <page name='Enable_RxSwift.Resources.total'/>
+        <page name='TryYourself'/>
+    </pages>
+</playground>
