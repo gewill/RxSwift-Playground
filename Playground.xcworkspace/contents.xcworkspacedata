@@ -5,9 +5,6 @@
       location = "group:Rx.playground">
    </FileRef>
    <FileRef
-      location = "group:/Users/will/git/RxSwift Playground/RxSwift Examples.playground">
-   </FileRef>
-   <FileRef
       location = "group:Dependencies">
    </FileRef>
 </Workspace>
